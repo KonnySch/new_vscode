@@ -1,0 +1,28 @@
+@import "_header";
+
+body{
+   font-size: 20px;
+   div{
+      font-size: 10px;
+   }
+   .fold{
+      color: red;
+   }  
+   .hit{
+      color: blue;
+   }
+}
+
+.cont {
+}
+.lor {
+
+   &__item1 {
+   }
+
+   &__item2 {
+   }
+
+   &__item3 {
+   }
+}

@@ -1,0 +1,16 @@
+header {
+  background-color: #fff;
+}
+
+body {
+  font-size: 20px;
+}
+body div {
+  font-size: 10px;
+}
+body .fold {
+  color: red;
+}
+body .hit {
+  color: blue;
+}
